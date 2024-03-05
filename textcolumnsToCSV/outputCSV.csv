@@ -1,0 +1,143 @@
+NAMESPACE, NAME, SECRETS, AGE
+,,,
+calico-apiserver, calico-apiserver,0, 49m
+,,,
+calico-apiserver, default,0, 49m
+,,,
+calico-system, calico-cni-plugin,0, 50m
+,,,
+calico-system, calico-kube-controllers,0, 50m
+,,,
+calico-system, calico-node,0, 50m
+,,,
+calico-system, calico-typha,0, 50m
+,,,
+calico-system, default,0, 50m
+,,,
+cluster-autoscaler, cluster-autoscalar,0, 24m
+,,,
+cluster-autoscaler, default,0, 52m
+,,,
+default, default,0, 55m
+,,,
+kong, default,0, 49m
+,,,
+kong, kong-kong,0, 48m
+,,,
+kube-node-lease, default,0, 55m
+,,,
+kube-public, default,0, 55m
+,,,
+kube-system, attachdetach-controller,0, 55m
+,,,
+kube-system, aws-cloud-provider,0, 55m
+,,,
+kube-system, aws-node,0, 54m
+,,,
+kube-system, certificate-controller,0, 55m
+,,,
+kube-system, clusterrole-aggregation-controller,0, 55m
+,,,
+kube-system, coredns,0, 54m
+,,,
+kube-system, cronjob-controller,0, 55m
+,,,
+kube-system, daemon-set-controller,0, 55m
+,,,
+kube-system, default,0, 55m
+,,,
+kube-system, deployment-controller,0, 55m
+,,,
+kube-system, disruption-controller,0, 55m
+,,,
+kube-system, ebs-csi-controller-sa,0, 49m
+,,,
+kube-system, ebs-csi-node-sa,0, 49m
+,,,
+kube-system, efs-csi-controller-sa,0, 49m
+,,,
+kube-system, efs-csi-node-sa,0, 49m
+,,,
+kube-system, eks-service-account,0, 52m
+,,,
+kube-system, eks-vpc-resource-controller,0, 55m
+,,,
+kube-system, endpoint-controller,0, 55m
+,,,
+kube-system, endpointslice-controller,0, 55m
+,,,
+kube-system, endpointslicemirroring-controller,0, 55m
+,,,
+kube-system, ephemeral-volume-controller,0, 55m
+,,,
+kube-system, expand-controller,0, 55m
+,,,
+kube-system, generic-garbage-collector,0, 55m
+,,,
+kube-system, horizontal-pod-autoscaler,0, 55m
+,,,
+kube-system, job-controller,0, 55m
+,,,
+kube-system, kube-proxy,0, 54m
+,,,
+kube-system, namespace-controller,0, 55m
+,,,
+kube-system, node-controller,0, 55m
+,,,
+kube-system, persistent-volume-binder,0, 55m
+,,,
+kube-system, pod-garbage-collector,0, 55m
+,,,
+kube-system, pv-protection-controller,0, 55m
+,,,
+kube-system, pvc-protection-controller,0, 55m
+,,,
+kube-system, replicaset-controller,0, 55m
+,,,
+kube-system, replication-controller,0, 55m
+,,,
+kube-system, resourcequota-controller,0, 55m
+,,,
+kube-system, root-ca-cert-publisher,0, 55m
+,,,
+kube-system, service-account-controller,0, 55m
+,,,
+kube-system, service-controller,0, 55m
+,,,
+kube-system, statefulset-controller,0, 55m
+,,,
+kube-system, tagging-controller,0, 55m
+,,,
+kube-system, tigera-operator,0, 51m
+,,,
+kube-system, ttl-after-finished-controller,0, 55m
+,,,
+kube-system, ttl-controller,0, 55m
+,,,
+metrics-server, default,0, 52m
+,,,
+metrics-server, metrics-server,0, 51m
+,,,
+nginx-loadbalancer, aws-load-balancer-controller,0, 51m
+,,,
+nginx-loadbalancer, default,0, 52m
+,,,
+nginx-loadbalancer, nginx-ingress-controller,0, 51m
+,,,
+prometheus, default,0, 49m
+,,,
+prometheus, prometheus-grafana,0, 46m
+,,,
+prometheus, prometheus-kube-prometheus-alertmanager,0, 46m
+,,,
+prometheus, prometheus-kube-prometheus-operator,0, 46m
+,,,
+prometheus, prometheus-kube-prometheus-prometheus,0, 46m
+,,,
+prometheus, prometheus-kube-state-metrics,0, 46m
+,,,
+prometheus, prometheus-prometheus-node-exporter,0, 46m
+,,,
+velero, default,0, 52m
+,,,
+velero, velero-server,0, 49m
