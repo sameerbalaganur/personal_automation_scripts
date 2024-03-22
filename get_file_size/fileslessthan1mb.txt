@@ -1,0 +1,17 @@
+./.git/hooks/fsmonitor-watchman.sample: 4.7K
+./.git/hooks/pre-commit.sample: 1.7K
+./.git/hooks/pre-push.sample: 1.4K
+./.git/hooks/pre-rebase.sample: 4.8K
+./.git/hooks/prepare-commit-msg.sample: 1.5K
+./.git/hooks/push-to-checkout.sample: 2.8K
+./.git/hooks/sendemail-validate.sample: 2.3K
+./.git/hooks/update.sample: 3.6K
+./.git/index: 1.7K
+./.git/objects/14/2dda20ae0d3aca8e36af7b3cbb5a995f2f3bcb: 1.6K
+./.git/objects/d6/680435d0dedd556a48aae56d01d3e499e8b0fe: 22K
+./.git/objects/e9/a0bf4fe9035ddc7d86041fd79f07e3e6dfef13: 1.6K
+./.gitignore: 3.2K
+./kubernetes_terminating_namespace_error_workaround!/namespace-slice.sh: 1.1K
+./kubernetes_terminating_namespace_error_workaround!/tempfile.json: 2.2K
+./textcolumnsToCSV/outputCSV.csv: 3.3K
+./textcolumnsToCSV/Untitled-1.ipynb: 1.9K
